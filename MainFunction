@@ -5,7 +5,7 @@ using namespace std;
 int main(){
 	cout << "welcome to the game\n";
 	system("pause");
-	Grendel grendie;//defining object Grendle a child pf Monster
+	Grendel grendie;//defining object Grendle a child pf Bird
 	grendie.levelUp(1);//calling grendel's function
 	return 0;
 }
